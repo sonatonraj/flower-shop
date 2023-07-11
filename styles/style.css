@@ -1,0 +1,75 @@
+body{
+    font-family: 'Lato', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+}
+/* header part style */
+header{
+    background: rgba(229, 84, 115, 0.10);
+    /* display: flex; */
+    align-items: center;
+}
+.section-container{
+    display: flex;
+    padding: 50px 240px 0;
+    gap: 100px;
+}
+.header-picture{
+    height: 750px;
+    width: 600px;
+    
+}
+.header-title{
+    font-size: 80px;
+    font-weight: 800px;
+    color: #272727;
+    margin-bottom: 0;
+}
+.header-inform{
+     font-size: 18px;
+     line-height: 30px;
+     color: gray;
+     margin-top: 32px;
+     margin-bottom: 32px;
+
+}
+.btn-primary{
+    padding: 20px 40px;
+    border: 0;
+    border-radius: 8px;
+    background-color: #E55473;
+    font-size: 20px;
+    font-weight: 700px;
+    color: white;
+}
+/* main part style */
+
+/* sign-up style */
+.sign-up-section{
+    display: flex;
+    background-color: rgba(229, 84, 115, 0.05);
+    margin-top: 120px;
+    align-items: center;
+    padding: 80px 400px 80px 390px;
+    gap: 180px;
+}
+.h2-heading{
+    font-size: 40px;
+    font-weight: 800px;
+    color: #272727;
+    margin-bottom: 0;
+    text-align: center;
+}
+.off-color{
+    color: #E55473;
+}
+.sign-inform{
+    font-size: 18px;
+    text-align: center;
+    color:grey ;
+    margin-bottom: 32px;
+    margin-top: 24px;
+}
+.sign-button{
+    text-align: center;
+}
+/* instragram section style */
